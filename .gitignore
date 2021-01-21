@@ -14,7 +14,7 @@ yarn-error.log
 .env
 .phpunit.result.cache
 /public/js
-.README.md
+README.md
 /public/css
 /public/mix-manifest.json
 /public/fonts
